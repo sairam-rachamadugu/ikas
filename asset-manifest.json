@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/ikas/static/css/main.259eeab3.css",
-    "main.js": "/ikas/static/js/main.6d17b34d.js",
+    "main.css": "/ikas/static/css/main.d6d9547d.css",
+    "main.js": "/ikas/static/js/main.1b3e090d.js",
+    "static/media/medical_background.jpg": "/ikas/static/media/medical_background.806c0ba08c33df89cf44.jpg",
     "static/media/hero.jpg": "/ikas/static/media/hero.84d70a494764d115c673.jpg",
     "static/media/grppic.png": "/ikas/static/media/grppic.eeb6fc08c4659049e2df.png",
     "static/media/brandedlogo.png": "/ikas/static/media/brandedlogo.84d7e26d0e02f014e42b.png",
@@ -11,11 +12,11 @@
     "static/media/bhaskar.jpg": "/ikas/static/media/bhaskar.f0f72c3c7e0cffdc22d1.jpg",
     "static/media/j2.jpg": "/ikas/static/media/j2.f0f72c3c7e0cffdc22d1.jpg",
     "index.html": "/ikas/index.html",
-    "main.259eeab3.css.map": "/ikas/static/css/main.259eeab3.css.map",
-    "main.6d17b34d.js.map": "/ikas/static/js/main.6d17b34d.js.map"
+    "main.d6d9547d.css.map": "/ikas/static/css/main.d6d9547d.css.map",
+    "main.1b3e090d.js.map": "/ikas/static/js/main.1b3e090d.js.map"
   },
   "entrypoints": [
-    "static/css/main.259eeab3.css",
-    "static/js/main.6d17b34d.js"
+    "static/css/main.d6d9547d.css",
+    "static/js/main.1b3e090d.js"
   ]
 }
